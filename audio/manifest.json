@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "bundled_in_app": [
+    "saud_shureim"
+  ],
+  "items": {
+    "abdul_basit_abdul_samad": {
+      "path": "audio/adhan/abdul_basit_abdul_samad.mp3",
+      "size_bytes": 1807089,
+      "sha256": "94eb4e90f851ca389de2c74b76904ddf9e3c31020f30c143f0b7face1c76028f",
+      "duration_sec": 225.855,
+      "bit_rate": 64008
+    },
+    "abdul_rahman_al_sudais": {
+      "path": "audio/adhan/abdul_rahman_al_sudais.mp3",
+      "size_bytes": 1282759,
+      "sha256": "ce6ea779c30b7879be22e00c041acdf604cb1136d6f2de1ff3ce03858149a500",
+      "duration_sec": 160.313,
+      "bit_rate": 64012
+    },
+    "mishari_rashid": {
+      "path": "audio/adhan/mishari_rashid.mp3",
+      "size_bytes": 935176,
+      "sha256": "c67b01815302a5f934133669974bb92b807b0dcff6f488d73a7711e4a588dcaa",
+      "duration_sec": 186.984,
+      "bit_rate": 40010
+    },
+    "muhammad_marwan_qassas": {
+      "path": "audio/adhan/muhammad_marwan_qassas.mp3",
+      "size_bytes": 1826524,
+      "sha256": "a755e35963e5dce9d89202cee95febcbdda2046b6d12df75eb4dcee624b680da",
+      "duration_sec": 228.284,
+      "bit_rate": 64008
+    },
+    "evening": {
+      "path": "audio/azkar/evening.mp3",
+      "size_bytes": 99101,
+      "sha256": "ec9ce756b9f03960cef1c58babc68701b370c2e16d9ce403fc75a2035330db18",
+      "duration_sec": 4.101,
+      "bit_rate": 193310
+    },
+    "morning": {
+      "path": "audio/azkar/morning.mp3",
+      "size_bytes": 95965,
+      "sha256": "1626a15d956c910404e74db60aab7573e293e6ecd268ca04603ec0d617d9cb6b",
+      "duration_sec": 3.971,
+      "bit_rate": 193350
+    },
+    "dua_after_azan": {
+      "path": "audio/dua/dua_after_azan.mp3",
+      "size_bytes": 173078,
+      "sha256": "bc0fd227ca308543144a3561a8c75e6cceaf851e5866e2002037a28700b02157",
+      "duration_sec": 21.603,
+      "bit_rate": 64093
+    },
+    "iqama": {
+      "path": "audio/notifications/iqama.mp3",
+      "size_bytes": 48826,
+      "sha256": "3e66bfa9f5d6d7f29ab09cc77dc68a32cb734f3944c17cd55c89f232685bd8a8",
+      "duration_sec": 6.076,
+      "bit_rate": 64284
+    },
+    "pre_prayer_alert": {
+      "path": "audio/notifications/pre_prayer_alert.mp3",
+      "size_bytes": 49665,
+      "sha256": "c3f82d1aa5ca0af51ae0b7ca806119fbfa8085fecff5b114819dd421ec89b536",
+      "duration_sec": 2.038,
+      "bit_rate": 194998
+    }
+  }
+}

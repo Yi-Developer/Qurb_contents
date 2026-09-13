@@ -1,0 +1,125 @@
+{
+  "format": "Qurb SQLite language packs",
+  "version": 1,
+  "description": "Один SQLite-файл на язык. Ресурсы внутри хранятся как gzip BLOB для компактности.",
+  "languages": {
+    "az": {
+      "folder": "Азербайджанский язык",
+      "database": "Азербайджанский язык/translations_az.db",
+      "resources": 9,
+      "builtin_sections": 0,
+      "size_bytes": 1134592,
+      "dua_entries": 104,
+      "geo_countries": 244,
+      "geo_cities": 15090
+    },
+    "en": {
+      "folder": "Английский язык",
+      "database": "Английский язык/translations_en.db",
+      "resources": 10,
+      "builtin_sections": 0,
+      "size_bytes": 1754112,
+      "dua_entries": 104,
+      "geo_countries": 244,
+      "geo_cities": 15090
+    },
+    "ar": {
+      "folder": "Арабский язык",
+      "database": "Арабский язык/translations_ar.db",
+      "resources": 3,
+      "builtin_sections": 5,
+      "size_bytes": 1003520,
+      "dua_entries": 104,
+      "geo_countries": 244,
+      "geo_cities": 15090
+    },
+    "kk": {
+      "folder": "Казахский язык",
+      "database": "Казахский язык/translations_kk.db",
+      "resources": 10,
+      "builtin_sections": 0,
+      "size_bytes": 1405952,
+      "dua_entries": 104,
+      "geo_countries": 244,
+      "geo_cities": 15090
+    },
+    "ko": {
+      "folder": "Корейский язык",
+      "database": "Корейский язык/translations_ko.db",
+      "resources": 10,
+      "builtin_sections": 0,
+      "size_bytes": 1595392,
+      "dua_entries": 104,
+      "geo_countries": 244,
+      "geo_cities": 15090
+    },
+    "ky": {
+      "folder": "Кыргызский язык",
+      "database": "Кыргызский язык/translations_ky.db",
+      "resources": 10,
+      "builtin_sections": 0,
+      "size_bytes": 1501184,
+      "dua_entries": 104,
+      "geo_countries": 244,
+      "geo_cities": 15090
+    },
+    "ru": {
+      "folder": "Русский язык",
+      "database": "Русский язык/translations_ru.db",
+      "resources": 9,
+      "builtin_sections": 0,
+      "size_bytes": 2125824,
+      "dua_entries": 104,
+      "geo_countries": 244,
+      "geo_cities": 15090
+    },
+    "tg": {
+      "folder": "Таджикский язык",
+      "database": "Таджикский язык/translations_tg.db",
+      "resources": 10,
+      "builtin_sections": 0,
+      "size_bytes": 1492992,
+      "dua_entries": 104,
+      "geo_countries": 244,
+      "geo_cities": 15090
+    },
+    "tr": {
+      "folder": "Турецкий язык",
+      "database": "Турецкий язык/translations_tr.db",
+      "resources": 11,
+      "builtin_sections": 0,
+      "size_bytes": 1748992,
+      "dua_entries": 104,
+      "geo_countries": 244,
+      "geo_cities": 15090
+    },
+    "uz": {
+      "folder": "Узбекский язык",
+      "database": "Узбекский язык/translations_uz.db",
+      "resources": 10,
+      "builtin_sections": 0,
+      "size_bytes": 1824768,
+      "dua_entries": 104,
+      "geo_countries": 244,
+      "geo_cities": 15090
+    },
+    "ja": {
+      "folder": "Японский язык",
+      "database": "Японский язык/translations_ja.db",
+      "resources": 9,
+      "builtin_sections": 0,
+      "size_bytes": 1291264,
+      "dua_entries": 104,
+      "geo_countries": 244,
+      "geo_cities": 15090
+    }
+  },
+  "dua_version": "104",
+  "dua_categories": 16,
+  "dua_entries": 104,
+  "geo_version": 1,
+  "geo_country_count": 244,
+  "geo_city_count": 15090,
+  "geo_cleanup_version": 2,
+  "geo_cleanup_note": "Cleaned wrapping quotes, normalized Unicode, validated language scripts, and replaced clearly corrupted city/country labels with English source names."
+}
