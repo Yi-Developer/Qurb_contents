@@ -1,6 +1,6 @@
 {
   "format": "Qurb SQLite language packs",
-  "version": 1,
+  "version": 2,
   "description": "Один SQLite-файл на язык. Ресурсы внутри хранятся как gzip BLOB для компактности.",
   "languages": {
     "az": {
@@ -8,110 +8,121 @@
       "database": "Азербайджанский язык/translations_az.db",
       "resources": 9,
       "builtin_sections": 0,
-      "size_bytes": 1134592,
+      "size_bytes": 1136640,
       "dua_entries": 104,
       "geo_countries": 244,
-      "geo_cities": 15090
+      "geo_cities": 15090,
+      "system_strings": 526
     },
     "en": {
       "folder": "Английский язык",
       "database": "Английский язык/translations_en.db",
       "resources": 10,
       "builtin_sections": 0,
-      "size_bytes": 1754112,
+      "size_bytes": 1761280,
       "dua_entries": 104,
       "geo_countries": 244,
-      "geo_cities": 15090
+      "geo_cities": 15090,
+      "system_strings": 956
     },
     "ar": {
       "folder": "Арабский язык",
       "database": "Арабский язык/translations_ar.db",
-      "resources": 3,
+      "resources": 4,
       "builtin_sections": 5,
-      "size_bytes": 1003520,
+      "size_bytes": 1034240,
       "dua_entries": 104,
       "geo_countries": 244,
-      "geo_cities": 15090
+      "geo_cities": 15090,
+      "system_strings": 905
     },
     "kk": {
       "folder": "Казахский язык",
       "database": "Казахский язык/translations_kk.db",
       "resources": 10,
       "builtin_sections": 0,
-      "size_bytes": 1405952,
+      "size_bytes": 1408000,
       "dua_entries": 104,
       "geo_countries": 244,
-      "geo_cities": 15090
+      "geo_cities": 15090,
+      "system_strings": 565
     },
     "ko": {
       "folder": "Корейский язык",
       "database": "Корейский язык/translations_ko.db",
       "resources": 10,
       "builtin_sections": 0,
-      "size_bytes": 1595392,
+      "size_bytes": 1597440,
       "dua_entries": 104,
       "geo_countries": 244,
-      "geo_cities": 15090
+      "geo_cities": 15090,
+      "system_strings": 526
     },
     "ky": {
       "folder": "Кыргызский язык",
       "database": "Кыргызский язык/translations_ky.db",
       "resources": 10,
       "builtin_sections": 0,
-      "size_bytes": 1501184,
+      "size_bytes": 1503232,
       "dua_entries": 104,
       "geo_countries": 244,
-      "geo_cities": 15090
+      "geo_cities": 15090,
+      "system_strings": 526
     },
     "ru": {
       "folder": "Русский язык",
       "database": "Русский язык/translations_ru.db",
       "resources": 9,
       "builtin_sections": 0,
-      "size_bytes": 2125824,
+      "size_bytes": 2127872,
       "dua_entries": 104,
       "geo_countries": 244,
-      "geo_cities": 15090
+      "geo_cities": 15090,
+      "system_strings": 565
     },
     "tg": {
       "folder": "Таджикский язык",
       "database": "Таджикский язык/translations_tg.db",
       "resources": 10,
       "builtin_sections": 0,
-      "size_bytes": 1492992,
+      "size_bytes": 1495040,
       "dua_entries": 104,
       "geo_countries": 244,
-      "geo_cities": 15090
+      "geo_cities": 15090,
+      "system_strings": 526
     },
     "tr": {
       "folder": "Турецкий язык",
       "database": "Турецкий язык/translations_tr.db",
       "resources": 11,
       "builtin_sections": 0,
-      "size_bytes": 1748992,
+      "size_bytes": 1751040,
       "dua_entries": 104,
       "geo_countries": 244,
-      "geo_cities": 15090
+      "geo_cities": 15090,
+      "system_strings": 565
     },
     "uz": {
       "folder": "Узбекский язык",
       "database": "Узбекский язык/translations_uz.db",
       "resources": 10,
       "builtin_sections": 0,
-      "size_bytes": 1824768,
+      "size_bytes": 1826816,
       "dua_entries": 104,
       "geo_countries": 244,
-      "geo_cities": 15090
+      "geo_cities": 15090,
+      "system_strings": 541
     },
     "ja": {
       "folder": "Японский язык",
       "database": "Японский язык/translations_ja.db",
       "resources": 9,
       "builtin_sections": 0,
-      "size_bytes": 1291264,
+      "size_bytes": 1292288,
       "dua_entries": 104,
       "geo_countries": 244,
-      "geo_cities": 15090
+      "geo_cities": 15090,
+      "system_strings": 526
     }
   },
   "dua_version": "104",
@@ -121,5 +132,8 @@
   "geo_country_count": 244,
   "geo_city_count": 15090,
   "geo_cleanup_version": 2,
-  "geo_cleanup_note": "Cleaned wrapping quotes, normalized Unicode, validated language scripts, and replaced clearly corrupted city/country labels with English source names."
+  "geo_cleanup_note": "Cleaned wrapping quotes, normalized Unicode, validated language scripts, and replaced clearly corrupted city/country labels with English source names.",
+  "pack_version": 2,
+  "content_tag": "1.0.2",
+  "policies": "policies/{privacy|shariah}_<code>.md"
 }

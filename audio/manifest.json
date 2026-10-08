@@ -18,13 +18,6 @@
       "duration_sec": 160.313,
       "bit_rate": 64012
     },
-    "mishari_rashid": {
-      "path": "audio/adhan/mishari_rashid.mp3",
-      "size_bytes": 935176,
-      "sha256": "c67b01815302a5f934133669974bb92b807b0dcff6f488d73a7711e4a588dcaa",
-      "duration_sec": 186.984,
-      "bit_rate": 40010
-    },
     "muhammad_marwan_qassas": {
       "path": "audio/adhan/muhammad_marwan_qassas.mp3",
       "size_bytes": 1826524,
@@ -55,10 +48,11 @@
     },
     "iqama": {
       "path": "audio/notifications/iqama.mp3",
-      "size_bytes": 48826,
-      "sha256": "3e66bfa9f5d6d7f29ab09cc77dc68a32cb734f3944c17cd55c89f232685bd8a8",
-      "duration_sec": 6.076,
-      "bit_rate": 64284
+      "size_bytes": 935176,
+      "sha256": "c67b01815302a5f934133669974bb92b807b0dcff6f488d73a7711e4a588dcaa",
+      "duration_sec": 186.984,
+      "bit_rate": 40010,
+      "note": "Mishari Rashid iqama (moved from audio/adhan/mishari_rashid.mp3)"
     },
     "pre_prayer_alert": {
       "path": "audio/notifications/pre_prayer_alert.mp3",

@@ -3,3 +3,7 @@ Qurb downloadable audio
 Only saud_shureim remains bundled in the app.
 All files in audio/ are downloaded on demand and cached locally.
 Downloaded items expose Download/Delete controls in Qurb settings.
+
+1.0.2: audio/notifications/iqama.mp3 is now the Mishari Rashid iqama
+(previously audio/adhan/mishari_rashid.mp3 — that recording is an iqama,
+not an adhan). The adhan folder no longer contains mishari_rashid.mp3.
