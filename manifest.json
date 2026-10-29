@@ -12,7 +12,7 @@
       "dua_entries": 104,
       "geo_countries": 244,
       "geo_cities": 15090,
-      "system_strings": 526
+      "system_strings": 531
     },
     "en": {
       "folder": "Английский язык",
@@ -23,18 +23,18 @@
       "dua_entries": 104,
       "geo_countries": 244,
       "geo_cities": 15090,
-      "system_strings": 956
+      "system_strings": 961
     },
     "ar": {
       "folder": "Арабский язык",
       "database": "Арабский язык/translations_ar.db",
       "resources": 4,
       "builtin_sections": 5,
-      "size_bytes": 1034240,
+      "size_bytes": 1018880,
       "dua_entries": 104,
       "geo_countries": 244,
       "geo_cities": 15090,
-      "system_strings": 905
+      "system_strings": 910
     },
     "kk": {
       "folder": "Казахский язык",
@@ -45,7 +45,7 @@
       "dua_entries": 104,
       "geo_countries": 244,
       "geo_cities": 15090,
-      "system_strings": 565
+      "system_strings": 570
     },
     "ko": {
       "folder": "Корейский язык",
@@ -56,7 +56,7 @@
       "dua_entries": 104,
       "geo_countries": 244,
       "geo_cities": 15090,
-      "system_strings": 526
+      "system_strings": 531
     },
     "ky": {
       "folder": "Кыргызский язык",
@@ -67,7 +67,7 @@
       "dua_entries": 104,
       "geo_countries": 244,
       "geo_cities": 15090,
-      "system_strings": 526
+      "system_strings": 531
     },
     "ru": {
       "folder": "Русский язык",
@@ -78,7 +78,7 @@
       "dua_entries": 104,
       "geo_countries": 244,
       "geo_cities": 15090,
-      "system_strings": 565
+      "system_strings": 570
     },
     "tg": {
       "folder": "Таджикский язык",
@@ -89,7 +89,7 @@
       "dua_entries": 104,
       "geo_countries": 244,
       "geo_cities": 15090,
-      "system_strings": 526
+      "system_strings": 531
     },
     "tr": {
       "folder": "Турецкий язык",
@@ -100,7 +100,7 @@
       "dua_entries": 104,
       "geo_countries": 244,
       "geo_cities": 15090,
-      "system_strings": 565
+      "system_strings": 570
     },
     "uz": {
       "folder": "Узбекский язык",
@@ -111,18 +111,18 @@
       "dua_entries": 104,
       "geo_countries": 244,
       "geo_cities": 15090,
-      "system_strings": 541
+      "system_strings": 546
     },
     "ja": {
       "folder": "Японский язык",
       "database": "Японский язык/translations_ja.db",
       "resources": 9,
       "builtin_sections": 0,
-      "size_bytes": 1292288,
+      "size_bytes": 1293312,
       "dua_entries": 104,
       "geo_countries": 244,
       "geo_cities": 15090,
-      "system_strings": 526
+      "system_strings": 531
     }
   },
   "dua_version": "104",
